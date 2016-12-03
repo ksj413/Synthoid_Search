@@ -18,5 +18,5 @@ def search(parameter):
 	browser.close()
 
 if __name__=="__main__":
-	parameter=['dogs','cats','cars','trains','ships','Chicago']
+	parameter=['dogs','cats','cars','trains','ships','Chicago', 'Paris]
 	search(parameter)
